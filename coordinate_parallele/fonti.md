@@ -7,7 +7,7 @@
   - [Guerry, 1883] Guerry, A.-M. (1833). Essai sur la Statistique Morale de la France. Paris: Crochard
   - [Guyford Heggery, 1965] H. Guyford Stever and James J. Haggerty, Flight (Life Science Library), Time Inc., New York, 1965
   - [[Inselberg, 2009] Inselberg, Alfred, Parallel Coordinates, Visual Multidimensional Geometry and Its Applications, Springer Nature 2009](https://doi.org/10.1007/978-0-387-68628-8)
-  - [[Inselberg, 2016]](https://www.youtube.com/watch?v=aTkzWEB14Lo)
+  - [[Inselberg, 2016] Parallel Coordinates: Visual Multidimensional Geometry and its Applications, Microsoft Reseach](https://www.youtube.com/watch?v=aTkzWEB14Lo)
 
 
 
