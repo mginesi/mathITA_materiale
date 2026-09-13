@@ -1,4 +1,4 @@
-# Nuove scoperte matematiche grazie all’IA di Google! #
+# il TEOREMA PIEGA-E-TAGLIA: la matematica ad uso delle sculture di carta  #
 
 Fonti per il [video sul _teorema piega-e-taglia_](https://youtu.be/bIefUUWFrQ4).
 
